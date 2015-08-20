@@ -1,0 +1,9 @@
+Django==1.8.4
+django-admin2==0.6.1
+django-braces==1.8.1
+django-crispy-forms==1.5.0
+django-extra-views==0.7.1
+django-filter==0.11.0
+django-floppyforms==1.5.2
+djangorestframework==3.2.2
+six==1.9.0
