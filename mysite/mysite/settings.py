@@ -38,6 +38,11 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls',
+    'djadmin2',
+    'djadmin2.themes.djadmin2theme_default', # for the default theme
+    'rest_framework', # for the browsable API templates
+    'floppyforms', # For HTML5 form fields
+    'crispy_forms', # Required for the default theme's layout
 )
 
 MIDDLEWARE_CLASSES = (
