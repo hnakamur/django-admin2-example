@@ -1,5 +1,5 @@
 Django==1.8.4
--e git+https://github.com/hnakamur/django-admin2@25679c7fa395e08b65931371e514f52cf7d365c6#egg=django_admin2-origin_use_static_template_tag
+-e git+https://github.com/pydanny/django-admin2@20b5b2ab72753f7af96c911bc8c13c4e8593c485#egg=django_admin2-develop
 django-braces==1.8.1
 django-crispy-forms==1.5.0
 django-extra-views==0.7.1
