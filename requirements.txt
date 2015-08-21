@@ -1,9 +1,10 @@
 Django==1.8.4
-django-admin2==0.6.1
+-e git+https://github.com/hnakamur/django-admin2@25679c7fa395e08b65931371e514f52cf7d365c6#egg=django_admin2-origin_use_static_template_tag
 django-braces==1.8.1
 django-crispy-forms==1.5.0
 django-extra-views==0.7.1
 django-filter==0.11.0
-django-floppyforms==1.5.2
-djangorestframework==3.2.2
+django-floppyforms==1.2.0
+djangorestframework==2.4.4
+pytz==2014.7
 six==1.9.0
