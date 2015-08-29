@@ -44,6 +44,7 @@ INSTALLED_APPS = (
     'floppyforms', # For HTML5 form fields
     'crispy_forms', # Required for the default theme's layout
 )
+ADMIN2_THEME_DIRECTORY = "djadmin2theme_default/"
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
